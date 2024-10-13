@@ -1,12 +1,3 @@
-<div style="text-align: center;">
-  <img src="https://github.com/Hack-io-Data/Imagenes/blob/main/01-LogosHackio/logo_naranja@4x.png?raw=true" alt="esquema" />
-</div>
-
-
-![imagen](imagenes/image.webp)
-
-
-
 ANÁLISIS DE LA EJECUCIÓN DE INGRESOS PÚBLICOS EN BRASIL
 
 
